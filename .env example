@@ -1,0 +1,17 @@
+# Database Configuration
+DB_HOST=
+DB_PORT=
+DB_NAME=
+DB_USER=
+DB_PASSWORD=
+
+# Model Configuration
+MODEL_PATH=
+
+# Processing Configuration
+BATCH_SIZE=32
+CHUNK_SIZE=500
+CHUNK_OVERLAP=50
+
+# Logging Configuration
+LOG_DIR=logs
